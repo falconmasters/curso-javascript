@@ -1,0 +1,17 @@
+{
+	"id": 1,
+	"nombre": "Carlos Arturo",
+	"suscriptor_activo": true,
+	"posts": [
+		{
+			"id": 1,
+			"titulo": "Titulo del primer post",
+			"texto": "texto del primer post ..."
+		},
+		{
+			"id": 2,
+			"titulo": "Titulo del segundo post",
+			"texto": "texto del segundo post ..."
+		}
+	]
+}

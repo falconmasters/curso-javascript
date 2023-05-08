@@ -1,0 +1,17 @@
+{
+	"type": "module",
+	"name": "modulos",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "rollup --config --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"rollup": "^3.5.1"
+	}
+}
